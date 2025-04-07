@@ -9,7 +9,7 @@
       "name": "直播源一",
       "type": 0,
       "playerType": 1,
-      "url": "https://cdn.jsdelivr.net/gh/w1tv/tv@gd/tvb.json",
+      "url": "https://cdn.jsdelivr.net/gh/w1tv/iptv@master/iptv.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"},
     {
